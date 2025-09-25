@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/Pruebas.unity
+    guid: 730bba3f46e844e438b5d43e964c50c8
+  - enabled: 1
+    path: Assets/Scenes/Game.unity
+    guid: e601ebfa99d2b0f419d526169b9fc27a
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: dd7ad33ef88e92b4792a8d933355df92,
+      type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 973069697db66c645b6c45a2edb92006,
+      type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 6c645634ba7678c4abb8d9014fc219b1,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: e95281f1929031041a7483bb383b1b3c,
+      type: 2}
